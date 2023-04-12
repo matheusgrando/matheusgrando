@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/matheusgrando">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   ##
   
 <div>
-  ![Snake animation](https://github.com/matheusgrando/matheusgrando/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
