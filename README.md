@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/matheusgrando">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando&langs_count=5"/>
 </div>
 
 <div style="display: inline_block"><br>
