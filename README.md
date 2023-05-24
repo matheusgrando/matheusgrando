@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: matheusgrando9@gmail.com
+- 📫 How to reach me: contatomatheusgrando@gmail.com
 
 <div>
   <a href="https://github.com/matheusgrando">
