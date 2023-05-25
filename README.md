@@ -1,5 +1,4 @@
-### Hi there 👋
-## Welcome to my Profile!
+## Welcome to my Profile! ✌🏻
 
 🌱 I’m currently learning « TypeScript » <br>
 📫 How to get in touch: contatomatheusgrando@gmail.com
