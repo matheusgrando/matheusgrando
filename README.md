@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 📫 How to reach me: contatomatheusgrando@gmail.com
+🌱 I’m currently learning « TypeScript » <br>
+📫 How to get in touch: contatomatheusgrando@gmail.com
 
 <div>
   <a href="https://github.com/matheusgrando">
