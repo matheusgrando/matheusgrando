@@ -1,5 +1,5 @@
-<h2>Hi there 👋<h2/><br>
-<h1>Welcome to my Profile!<h1/>
+### Hi there 👋
+## Welcome to my Profile!
 
 🌱 I’m currently learning « TypeScript » <br>
 📫 How to get in touch: contatomatheusgrando@gmail.com
