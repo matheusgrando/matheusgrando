@@ -1,7 +1,7 @@
 ## Welcome to my Profile! ✌🏻
 
 🌱 I’m currently learning « TypeScript » <br>
-📫 How to get in touch: contatomatheusgrando@gmail.com
+📫 Get in touch by sending me an email: contatomatheusgrando@gmail.com
 
 <div>
   <a href="https://github.com/matheusgrando">
