@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/matheusgrando">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true&theme=dracula&title_color=ccccff&text_color=b22418"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true&theme=dracula&title_color=ccccff&text_color=ed7267"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando&langs_count=6&layout=compact&theme=dracula&title_color=ccccff"/>
 </div>
 
