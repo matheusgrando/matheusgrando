@@ -18,9 +18,3 @@
   <img align="center" alt="Matheus-Python" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Matheus-Java" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
-
-  ##
-  
-<div>
-    
-</div>
