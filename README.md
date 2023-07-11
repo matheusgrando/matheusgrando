@@ -1,6 +1,6 @@
 ## Welcome to my Profile! ✌🏻
 
-🌱 I’m currently learning « TypeScript » <br>
+🌱 I’m currently focusing on « Java » <br>
 📫 Get in touch by sending me an email: contatomatheusgrando@gmail.com
 
 <div>
