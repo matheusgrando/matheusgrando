@@ -1,4 +1,4 @@
-### Welcome to my Profile! ✌🏻
+### Welcome to my Profile!
 
 🌱 I’m currently focusing on « Java » <br>
 📫 Get in touch by sending me an email: matheusgrando9@gmail.com
@@ -12,9 +12,9 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-JavaScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Matheus-HTML5" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS3" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
-  <img align="center" alt="Matheus-Oracle" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Matheus-JavaScript" height="48" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Matheus-HTML5" height="48" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Matheus-CSS3" height="48" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-Java" height="48" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
+  <img align="center" alt="Matheus-Oracle" height="48" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
