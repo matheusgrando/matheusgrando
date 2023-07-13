@@ -1,12 +1,12 @@
-## Welcome to my Profile! ✌🏻
+### Welcome to my Profile! ✌🏻
 
 🌱 I’m currently focusing on « Java » <br>
 📫 Get in touch by sending me an email: matheusgrando9@gmail.com
 
 <div>
   <a href="https://github.com/matheusgrando">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true&theme=dracula&title_color=ccccff&text_color=ed7267&icon_color=55e8ff&border_color=f5f8fd"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando&langs_count=6&layout=compact&theme=dracula&title_color=ccccff&border_color=f5f8fd"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true&theme=dracula&border_color=f5f8fd"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando&langs_count=6&layout=compact&theme=dracula&border_color=f5f8fd"/>
 </div>
 
 ##
