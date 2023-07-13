@@ -1,7 +1,7 @@
 ## Welcome to my Profile! ✌🏻
 
 🌱 I’m currently focusing on « Java » <br>
-📫 Get in touch by sending me an email: contatomatheusgrando@gmail.com
+📫 Get in touch by sending me an email: matheusgrando9@gmail.com
 
 <div>
   <a href="https://github.com/matheusgrando">
