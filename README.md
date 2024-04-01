@@ -1,6 +1,6 @@
 ### Welcome to my Profile!
 
-- 🌱 I’m currently focusing on « Java » <br>
+- 🌱 Knowledge: HTML5, CSS3, JavaScript, Next.js, Node.js, NPM, Figma, Git & GitHub, React, Kotlin, Java, Spring and i18n.<br>
 - 📫 Get in touch by sending me an email: matheusgrando9@gmail.com
 
 <div>
