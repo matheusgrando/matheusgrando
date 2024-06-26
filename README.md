@@ -7,7 +7,9 @@
   <a href="https://github.com/matheusgrando">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true&theme=dracula&border_color=f5f8fd"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando&layout=compact&theme=dracula&border_color=f5f8fd"/>
-</div>
+</div><br>
+
+“Quem ouve, esquece. Quem vê, lembra. Quem faz, aprende.” Provérbio chinês.
 
 ##
 
