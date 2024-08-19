@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu Perfil! 👋🏻
+## Welcome to my Profile! 👋🏻
 
 - 🌱 Knowledge: HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Node.js, Next.js, NPM, Figma, Git & GitHub, React, Kotlin, Java, Spring and i18n.<br>
 - 📫 Get in touch by sending me an email: matheusgrando9@gmail.com
@@ -8,8 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusgrando&show_icons=true&theme=dracula&border_color=f5f8fd"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrando&layout=compact&theme=dracula&border_color=f5f8fd"/>
 </div><br>
-
-“Quem ouve, esquece. Quem vê, lembra. Quem faz, aprende.” Provérbio chinês.
 
 ##
 
